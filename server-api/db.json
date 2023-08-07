@@ -1,3 +1,13 @@
 {
-  "contacts": []
+  "contacts": [
+    {
+      "id": "d5ad7ed2-27cf-47f4-8bb3-5e3c343abadd",
+      "name": "chatur",
+      "email": "123@gmail.com",
+      "state": {
+        "name": "chatur",
+        "email": "123@gmail.com"
+      }
+    }
+  ]
 }
